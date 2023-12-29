@@ -17,7 +17,7 @@ The point of this course is to create an interesting project using hardware and 
 Details about technology, program language, and Hardware that will be
 used in next tasks.
 ### Software
-The frontend part of application will be written using Console Application. Programing language - C#
+The frontend part of application will be written using Console Application. Programing language - C++
 
 ### Hardware
 Arduino uno will be used as a server. Programing language - C++
